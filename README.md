@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucSchimidt
-- 👀 I’m interested in Backend and Python Development
+- 👀 I’m interested in Automation and Python Development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Automation Projects
 
