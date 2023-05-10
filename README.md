@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucSchimidt
 - 📌 I'm currently based in São Paulo, Brasil ╰(*°▽°*)╯
 - 👀 I’m interested in Automation and Python Development
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Python for Data Analysis
 - 💞️ I’m looking to collaborate on Automation Projects
 
 <!---
