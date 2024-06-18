@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucSchimidt
-- 📌 I'm based in Leme, São Paulo, Brasil ╰(*°▽°*)╯
+- 📌 I'm based in Poços de Caldas, Minas Gerais, Brasil ╰(*°▽°*)╯
 - 👀 I’m interested in Automation and Python Development
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Automation Projects
